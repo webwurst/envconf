@@ -13,8 +13,8 @@
     
 ## Just install
 
-    $ sudo curl -L -o /usr/local/bin/envconf https://github.com/webwurst/envconf/releases/download/v0.1-alpha/envconf
-    $ sudo chmod +x /usr/local/bin/envconf
+    $ sudo curl -L -o /usr/local/bin/envconf https://github.com/webwurst/envconf/releases/download/v0.1-alpha/envconf \
+      && sudo chmod +x /usr/local/bin/envconf
     
 ## Use it
 
